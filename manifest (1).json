@@ -1,0 +1,19 @@
+{
+  "name": "ISPR - Inter Services Public Relations News Report",
+  "short_name": "ISPR News",
+  "description": "24/7 Live News Harvester & Intelligence Report Generator",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#020617",
+  "theme_color": "#020617",
+  "icons": [
+    {
+      "src": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 120 120'><rect width='40' height='120' x='0' fill='%230096D6'/><rect width='40' height='120' x='40' fill='%23B5121B'/><rect width='40' height='120' x='80' fill='%230B3B60'/><circle cx='60' cy='60' r='38' fill='%23FFFFFF' stroke='%23006A4E' stroke-width='4'/><circle cx='60' cy='60' r='26' fill='%23DA291C'/><text x='60' y='67' font-size='20' font-family='Arial' font-weight='900' fill='%23FFC72C' text-anchor='middle'>ISPR</text></svg>",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
