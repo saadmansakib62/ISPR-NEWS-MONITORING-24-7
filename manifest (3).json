@@ -1,0 +1,12 @@
+{
+  "name": "ISPR News Monitor — 24/7",
+  "short_name": "News Monitor",
+  "description": "A live, source-linked dashboard for monitoring national and international news.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#09110e",
+  "theme_color": "#09110e",
+  "icons": []
+}
